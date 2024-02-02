@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\Test-resim\Test-resim\bin\Debug\Test-resim.exe.config
+C:\Users\legen\source\repos\Test-resim\Test-resim\bin\Debug\Test-resim.exe
+C:\Users\legen\source\repos\Test-resim\Test-resim\bin\Debug\Test-resim.pdb
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test-resim.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test_resim.Form1.resources
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test_resim.Properties.Resources.resources
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test-resim.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test-resim.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test-resim.exe
+C:\Users\legen\source\repos\Test-resim\Test-resim\obj\Debug\Test-resim.pdb
